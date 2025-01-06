@@ -12,4 +12,6 @@ _Os exemplos incluem a manipulação de datas, cálculos matemáticos e outras o
 
 #
 
-_Exercícios realizados apenas para fins de estudos e consultas futuras._
+_Esta lista de exercícios foi desenvolvida com o objetivo de praticar e fixar conceitos em Python, sobre as libs: Datetime, Math e Random._
+
+> Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado. 🚀💫
