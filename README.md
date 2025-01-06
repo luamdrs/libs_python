@@ -9,3 +9,5 @@ _Os exemplos incluem a manipulação de datas, cálculos matemáticos e outras o
 * **datetime:** Para trabalhar com datas e horas;
 * **math:** Para cálculos matemáticos e funções avançadas;
 * **random:** Para gerar números aleatórios e realizar sorteios.
+
+_Exercícios realizados apenas para fins de estudos e consultas futuras._
